@@ -1,0 +1,4 @@
+com/example/model/Task.class
+com/example/service/TaskManager.class
+com/example/App.class
+com/example/exception/TaskException.class
