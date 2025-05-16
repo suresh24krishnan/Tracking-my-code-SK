@@ -1,0 +1,6 @@
+com/example/model/Task.class
+com/example/App.class
+com/example/service/TaskService.class
+com/example/config/SecurityConfig.class
+com/example/repository/TaskRepository.class
+com/example/exception/TaskException.class
